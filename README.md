@@ -349,27 +349,13 @@ Developed practical embedded applications and gained experience in embedded soft
 </div>
 
 ---
-
-## `10` — LeetCode Activity
+## `11` — LeetCode Activity
 
 <div align="center">
 
 <a href="https://leetcode.com/u/Dia_jay/">
 
 <img src="https://leetcard.jacoblin.cool/Dia_jay?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Statistics"/>
-
-</a>
-
-</div>
-
----
-## `11` — LeetCode Activity
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-
-<img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=diajay9785&theme=dark" alt="LeetCode Activity"/>
 
 </a>
 
