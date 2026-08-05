@@ -349,6 +349,15 @@ Developed practical embedded applications and gained experience in embedded soft
 </div>
 
 ---
+## `10` — GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/diajay9785/diajay9785/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
 ## `11` — LeetCode Activity
 
 <div align="center">
