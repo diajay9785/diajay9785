@@ -340,44 +340,6 @@ Developed practical embedded applications and gained experience in embedded soft
 
 ---
 
-## `09` — GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/diajay9785">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=diajay9785&show_icons=true&hide_border=true&bg_color=080812&title_color=C4B5FD&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true&count_private=true"/>
-
-</a>
-
-<a href="https://github.com/diajay9785">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diajay9785&layout=compact&hide_border=true&bg_color=080812&title_color=C4B5FD&text_color=E5E7EB&langs_count=8"/>
-
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/diajay9785">
-
-<img src="https://streak-stats.demolab.com?user=diajay9785&theme=dark&hide_border=true&background=080812&ring=7C3AED&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=E5E7EB&dates=9CA3AF"/>
-
-</a>
-
-</div>
-
----
-
-## `10` — GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=diajay9785&theme=onestar&no-frame=true&no-bg=true&margin-w=12&column=7"/>
-
-</div>
-
----
-
 ## `11` — Contribution Activity
 
 <div align="center">
