@@ -350,23 +350,11 @@ Developed practical embedded applications and gained experience in embedded soft
 
 ---
 
-## `10` — LeetCode Activity
+## `10` — Contribution Snake
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-
-<img src="https://leetcard.jacoblin.cool/diajay9785?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Statistics"/>
-
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/">
-
-<img src="https://img.shields.io/badge/LEETCODE-Problem%20Solving-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-
-</a>
+<img src="https://raw.githubusercontent.com/diajay9785/diajay9785/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
