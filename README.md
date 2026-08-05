@@ -359,8 +359,21 @@ Developed practical embedded applications and gained experience in embedded soft
 </div>
 
 ---
+## `11` — LeetCode Activity
 
-## `11` — Current Focus
+<div align="center">
+
+<a href="https://leetcode.com/">
+
+<img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=diajay9785&theme=dark" alt="LeetCode Activity"/>
+
+</a>
+
+</div>
+
+---
+
+## `12` — Current Focus
 
 ```yaml
 profile:
@@ -403,7 +416,7 @@ open_to:
 
 ---
 
-## `12` — Connect
+## `13` — Connect
 
 <div align="center">
 
