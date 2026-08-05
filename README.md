@@ -340,7 +340,7 @@ Developed practical embedded applications and gained experience in embedded soft
 
 ---
 
-## `11` — Contribution Activity
+## `9` — Contribution Activity
 
 <div align="center">
 
@@ -350,7 +350,7 @@ Developed practical embedded applications and gained experience in embedded soft
 
 ---
 
-## `12` — LeetCode Activity
+## `10` — LeetCode Activity
 
 <div align="center">
 
@@ -372,7 +372,7 @@ Developed practical embedded applications and gained experience in embedded soft
 
 ---
 
-## `13` — Current Focus
+## `11` — Current Focus
 
 ```yaml
 profile:
@@ -415,7 +415,7 @@ open_to:
 
 ---
 
-## `14` — Connect
+## `12` — Connect
 
 <div align="center">
 
